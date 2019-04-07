@@ -1,5 +1,7 @@
 ## Go SGDK Sample Project
 
+![Screenshot](doc/screenshot.png)
+
 I spent too long making this, but it works sort of.
 It's a simple Mega Drive (SGDK) program written in Go (and assembly).
 
